@@ -23,15 +23,15 @@ I bought this originally from this kit but then I replaced the esp32 it came wit
 
 Wiring List
 
- Left Motor A: D8  controls: Motor direction control
- Left Motor B: D9 controls: Motor direction control 
- Right Motor A : D10 : Motor direction control 
-Right Motor B : D11 : Motor direction control 
-Left Motor PWM : D5 : Speed control 
-Right Motor PWM : D6 : Speed control 
-Ultrasonic TRIG : D12 : Trigger pulse for sensor :
-Ultrasonic ECHO : D13 : Echo pulse from sensor :
- Servo Signal : D4 : Servo control  :
+ Left Motor A-  D8  controls: Motor direction control
+ Left Motor B-  D9 controls: Motor direction control 
+ Right Motor A- D10 : Motor direction control 
+Right Motor B-  D11 : Motor direction control 
+Left Motor PWM-  D5 : Speed control 
+Right Motor PWM-  D6 : Speed control 
+Ultrasonic TRIG-  D12 : Trigger pulse for sensor :
+Ultrasonic ECHO- D13 : Echo pulse from sensor :
+ Servo Signal-  D4 : Servo control  :
 
 
 Motor Driver wirings;
