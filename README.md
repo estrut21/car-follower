@@ -77,8 +77,12 @@ Problems:
   - Add line-following capability with IR sensors
 -  Bluetooth remote control and wireless
 
-Pictures: <img width="4284" height="5712" alt="IMG_8546 copy" src="https://github.com/user-attachments/assets/4c5c4db0-0d2f-4521-ad9b-de504b686561" />
+Pictures: 
+<img width="3072" height="4096" alt="robot" src="https://github.com/user-attachments/assets/a3971674-5f2b-4eda-b70b-e3899233f9d5" />
+
+<img width="4284" height="5712" alt="IMG_8546 copy" src="https://github.com/user-attachments/assets/4c5c4db0-0d2f-4521-ad9b-de504b686561" />
 <img width="4284" height="5712" alt="IMG_8538 copy" src="https://github.com/user-attachments/assets/3193552c-cdab-4c60-bb51-012738e2fb69" />
+
 
 
 
