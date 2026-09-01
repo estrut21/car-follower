@@ -11,13 +11,13 @@ This project is an Arduino-based autonomous robot that detects obstacles and mov
  Hardware Requirements
 
 List of Materials:
-- Arduino Uno - Main microcontroller
-- HC-SR04 Ultrasonic Sensor
-- SG90 Micro Servo
-- DC Motors (x2)
-- Motor Driver(L298N or similar) 
-- Motor Battery - 7.4V-12V
-- USB Cable 
+- Arduino Uno - Main microcontroller $7
+- HC-SR04 Ultrasonic Sensor $6
+- SG90 Micro Servo $8
+- DC Motors (x2) $10
+- Motor Driver(L298N or similar) $8
+- Motor Battery - 7.4V-12V $6
+- USB Cable $3
 
 I bought this originally from this kit but then I replaced the esp32 it came with for an Arduino because the esp32 came with software preloaded on it that I could not quit figure out
 
